@@ -566,3 +566,10 @@ mark {
     text-decoration: line-through;
     color: hsl(220, 6%, 45%);
 }
+
+kbd {
+  background: #222;
+  color: #ddd;
+  border-color: #444;
+  box-shadow: 0 2px 0 #333;
+}

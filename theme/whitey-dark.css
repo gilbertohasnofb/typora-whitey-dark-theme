@@ -21,6 +21,7 @@
 
   --code-select-bg-color: rgb(64, 72, 89);
   --code-cursor-color: hsl(220, 100%, 66%);
+  --mermaid-theme:dark;
 }
 
 
